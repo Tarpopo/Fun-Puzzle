@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017467395cca40c59b22247fa5286f19, type: 3}
+  m_Name: Turtle
+  m_EditorClassIdentifier: 
+  BackGroundOutlineSprite: {fileID: 21300000, guid: 5c13c18d05a41984a857faf39957cac1,
+    type: 3}
+  VisualBackgroundColors:
+  - {r: 0.10196079, g: 0.43529415, b: 0.78823537, a: 0}
+  - {r: 0.5568628, g: 0.0627451, b: 0.015686275, a: 0}
+  - {r: 0.7960785, g: 0.7568628, b: 0.25490198, a: 0}
+  BackgroundColors: 050000000100000004000000
+  BackGroundSprite:
+  - {fileID: 21300000, guid: 5a47f24e2678e6942b7b0094e880d72a, type: 3}
+  - {fileID: 21300000, guid: 98909be98836bab429cd21165854d519, type: 3}
+  - {fileID: 21300000, guid: 7c25d0ada225a4d46b8e6b4fc9f6ead6, type: 3}
+  Silhouette: {fileID: 21300000, guid: ba791f89590cdb84fb9431918f4ef80c, type: 3}
+  OutlineSprite: {fileID: 21300000, guid: b7e9a17d3422b254d8a0827dbbe85cf2, type: 3}
+  VisualColorsList:
+  - {r: 0.9215687, g: 0.8117648, b: 0.5882353, a: 0}
+  - {r: 0.627451, g: 0.33333334, b: 0.07450981, a: 0}
+  - {r: 0.5568628, g: 0.0627451, b: 0.015686275, a: 0}
+  - {r: 0.7960785, g: 0.7568628, b: 0.25490198, a: 0}
+  - {r: 0.8000001, g: 0.8000001, b: 0.8000001, a: 0}
+  - {r: 0.61960787, g: 0.5529412, b: 0.078431375, a: 0}
+  - {r: 0.18039216, g: 0.10588236, b: 0.078431375, a: 0}
+  ColorsList: 230000000a0000000100000004000000180000002200000020000000
+  SpriteList:
+  - {fileID: 21300000, guid: 8a84a4ba7eadf274a8cb6409ce14181d, type: 3}
+  - {fileID: 21300000, guid: 6362f2e7b59d9cb4bb9f23da98c20b12, type: 3}
+  - {fileID: 21300000, guid: 6c1bd99b3327a3c4595d2d1793200d44, type: 3}
+  - {fileID: 21300000, guid: 0b3291844d253cf4ca172033575e5489, type: 3}
+  - {fileID: 21300000, guid: cdef38f1c47e9b24eafb4f7fe11940b8, type: 3}
+  - {fileID: 21300000, guid: a6725248e4229844e9c21de6500a69cd, type: 3}
+  - {fileID: 21300000, guid: 3d502f194b45e854bba5165c401a0063, type: 3}

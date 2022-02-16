@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017467395cca40c59b22247fa5286f19, type: 3}
+  m_Name: Stegosaurus
+  m_EditorClassIdentifier: 
+  BackGroundOutlineSprite: {fileID: 21300000, guid: 750e83019f3144d4ab992317afdd3f9f,
+    type: 3}
+  VisualBackgroundColors:
+  - {r: 0.2509804, g: 0.5411765, b: 0.2509804, a: 0}
+  - {r: 1, g: 0.9921569, b: 0.69803923, a: 0}
+  - {r: 0.5882353, g: 0.29411766, b: 0.9215687, a: 0}
+  BackgroundColors: 220000000300000016000000
+  BackGroundSprite:
+  - {fileID: 21300000, guid: f2aff771a7b9eed4e9ef0b7391d89ba9, type: 3}
+  - {fileID: 21300000, guid: 38c82ce4726bc58449e9c1ebdbef3e6d, type: 3}
+  - {fileID: 21300000, guid: 9b5f88b98bbedcb4daf03365e4e6eb08, type: 3}
+  Silhouette: {fileID: 21300000, guid: 8bbf5a9ceb8c73044b505b8a208adc86, type: 3}
+  OutlineSprite: {fileID: 21300000, guid: cf391f623a4182b4fa56267ef46ddb0d, type: 3}
+  VisualColorsList:
+  - {r: 0.2509804, g: 0.5411765, b: 0.2509804, a: 0}
+  - {r: 0.25490198, g: 0.7490196, b: 0.8745099, a: 0}
+  - {r: 0.09411766, g: 0.454902, b: 0.5411765, a: 0}
+  - {r: 0.45882356, g: 0.7490196, b: 0.45882356, a: 0}
+  - {r: 1, g: 0.9921569, b: 0.69803923, a: 0}
+  ColorsList: 2200000019000000110000000400000003000000
+  SpriteList:
+  - {fileID: 21300000, guid: b4d31a91ef6d2fe4c9de5f9faf44d9db, type: 3}
+  - {fileID: 21300000, guid: 2d6b714d243131745b1fdcbc689e8e3d, type: 3}
+  - {fileID: 21300000, guid: b201e7d8501f987418239fbb60c46751, type: 3}
+  - {fileID: 21300000, guid: ccb11e874a7bcde49b985554293dfb96, type: 3}
+  - {fileID: 21300000, guid: 8752c9286deb0df45a6f9bf3be04d89e, type: 3}

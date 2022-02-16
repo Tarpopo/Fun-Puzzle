@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017467395cca40c59b22247fa5286f19, type: 3}
+  m_Name: Ankylosaurus
+  m_EditorClassIdentifier: 
+  BackGroundOutlineSprite: {fileID: 21300000, guid: 660f937e44e78ae42b7bece877bfa44f,
+    type: 3}
+  VisualBackgroundColors:
+  - {r: 0.15686275, g: 0.24313727, b: 0.41176474, a: 0}
+  - {r: 0.27058825, g: 0.40000004, b: 0.68235296, a: 0}
+  - {r: 0.56078434, g: 0.33333334, b: 0.627451, a: 0}
+  BackgroundColors: 050000001900000016000000
+  BackGroundSprite:
+  - {fileID: 21300000, guid: b5d25c90f0d7eff42885b5d3232b4a4f, type: 3}
+  - {fileID: 21300000, guid: c6ee1bc14f2ff5c4aa79ab7b01d05953, type: 3}
+  - {fileID: 21300000, guid: 6b45cc15829d70b479e9110c0ab97db0, type: 3}
+  Silhouette: {fileID: 21300000, guid: 49d3b2dc549b4334eaceb64a74ac2073, type: 3}
+  OutlineSprite: {fileID: 21300000, guid: a2b442c8eab83044886060258541a727, type: 3}
+  VisualColorsList:
+  - {r: 0.27058825, g: 0.40000004, b: 0.68235296, a: 0}
+  - {r: 1, g: 0.78823537, b: 0.4431373, a: 0}
+  - {r: 0.74509805, g: 0.36862746, b: 0.28627452, a: 0}
+  - {r: 0.7803922, g: 0.8745099, b: 0.9058824, a: 0}
+  - {r: 0.15686275, g: 0.24313727, b: 0.41176474, a: 0}
+  - {r: 0.56078434, g: 0.33333334, b: 0.627451, a: 0}
+  ColorsList: 190000000300000002000000180000000500000016000000
+  SpriteList:
+  - {fileID: 21300000, guid: b5feae41802e2d84e8616a88e7f8257e, type: 3}
+  - {fileID: 21300000, guid: 2f7ecec5250f7b04bb085a68613199ae, type: 3}
+  - {fileID: 21300000, guid: 118cd2931b48bf54184604dd2a8f18db, type: 3}
+  - {fileID: 21300000, guid: 0cb3f0508b118544aac7fefd60f68a03, type: 3}
+  - {fileID: 21300000, guid: e3a7123aaa768c1459a256a2a0bd943f, type: 3}
+  - {fileID: 21300000, guid: b100c8eb9d301ca4e966730c73a49370, type: 3}

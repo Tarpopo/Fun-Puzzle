@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Parasaurolophus
+  m_Controller: {fileID: 9100000, guid: 589cdfe57f7fc7149a57cba882301207, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a2f2a558b56e6af4eb595dae5be9cf38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b5db25afe35042c4fb240546e5797959, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e42a9867485394147820bb90d1a03116, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e5b5dd781d3341e4fb1994e8c260e15b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41a458822938d28478649d4104fca6b3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8a11c21e019b61a46970c0c31aa60af4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e1c1085b96299bc40a66f1a325ba37a5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aca685e4a1b334f4c81e19aec01b4dbd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 275a95182af786c48b81afa33777cda7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb7708d94d5df2f498c6746f83915356, type: 2}

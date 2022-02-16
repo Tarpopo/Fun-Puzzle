@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772465ffc000c244fb6ba258dd374f0a, type: 3}
+  m_Name: Collection
+  m_EditorClassIdentifier: 
+  SpriteCollectionTopics:
+  - SpriteCollectionsList:
+    - {fileID: 11400000, guid: cd7a20ff9f76f634492178975da9d6bd, type: 2}
+    - {fileID: 11400000, guid: 734afc312c9637b4aa4f11e0160961cd, type: 2}
+    - {fileID: 11400000, guid: d071dd45d40e4a64f8aa5751782b973c, type: 2}
+    - {fileID: 11400000, guid: 554095a2814dc49418d944c123ee1743, type: 2}
+    AnimationCollectionsList:
+    - {fileID: 11400000, guid: c1f68cdff043ed44eabcab2d10535bc9, type: 2}
+    - {fileID: 11400000, guid: 941f698df9b69544ea5c0d353f4580d4, type: 2}
+    - {fileID: 11400000, guid: fae8674d54cb17e4b8598ece2d3a1c87, type: 2}
+    - {fileID: 11400000, guid: f8f9e847326d47b4f9ad269cb9bd23b2, type: 2}
+  - SpriteCollectionsList:
+    - {fileID: 11400000, guid: 204879802a2baeb41ab5e23ee1c1b043, type: 2}
+    - {fileID: 11400000, guid: 15d2fd99b696d2444b05c535c7cc3da7, type: 2}
+    - {fileID: 11400000, guid: fc95e85f05ca6594bb40d0735a43e8a4, type: 2}
+    - {fileID: 11400000, guid: 6d069a116b00ade4ebb9e5655172d8b8, type: 2}
+    AnimationCollectionsList:
+    - {fileID: 11400000, guid: 7a87df44a4d1cb64a93df5e9c024882c, type: 2}
+    - {fileID: 11400000, guid: fddf1a70705d9ad488fecd4196b13fc8, type: 2}
+    - {fileID: 11400000, guid: 24c1c9f5b34333546a73ef518ca2bc9c, type: 2}
+    - {fileID: 11400000, guid: be2aa17f04539154c988f38af9b98208, type: 2}

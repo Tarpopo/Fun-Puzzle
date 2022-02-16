@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017467395cca40c59b22247fa5286f19, type: 3}
+  m_Name: Parasaurolophus
+  m_EditorClassIdentifier: 
+  BackGroundOutlineSprite: {fileID: 21300000, guid: 435e46e94e27e2342a80c86d1667fb69,
+    type: 3}
+  VisualBackgroundColors:
+  - {r: 0.6627451, g: 0.81568635, b: 0.854902, a: 0}
+  - {r: 1, g: 0.7490196, b: 0.043137256, a: 0}
+  - {r: 0.57254905, g: 0.86666673, b: 0.61960787, a: 0}
+  BackgroundColors: 190000000300000021000000
+  BackGroundSprite:
+  - {fileID: 21300000, guid: 0fd48dac9465e94439153b3463589afe, type: 3}
+  - {fileID: 21300000, guid: 588fbe7400b3e2040ab45ac1ef0e6106, type: 3}
+  - {fileID: 21300000, guid: 13f4eb3515b0daa41be0c4a74ca753df, type: 3}
+  Silhouette: {fileID: 21300000, guid: 7eb7c90ec1d02ac4aa81f73bfef35163, type: 3}
+  OutlineSprite: {fileID: 21300000, guid: b58dc6b9de07a5f4d978f35de9fb8e6e, type: 3}
+  VisualColorsList:
+  - {r: 0.6627451, g: 0.81568635, b: 0.854902, a: 0}
+  - {r: 0.3019608, g: 0.5529412, b: 0.33333334, a: 0}
+  - {r: 0.57254905, g: 0.86666673, b: 0.61960787, a: 0}
+  - {r: 0.47450984, g: 0.24313727, b: 0.41176474, a: 0}
+  - {r: 0.7294118, g: 0.454902, b: 0.6666667, a: 0}
+  ColorsList: 1900000004000000210000002600000017000000
+  SpriteList:
+  - {fileID: 21300000, guid: 0ab59cf5b6bb6e94bb15de9cc47293c0, type: 3}
+  - {fileID: 21300000, guid: 2e24c6306fc78be43b31df6df979efbc, type: 3}
+  - {fileID: 21300000, guid: 9b08abaa11d020942870d3ae374a47f2, type: 3}
+  - {fileID: 21300000, guid: b0914fe099badbe4a8548344b60bf828, type: 3}
+  - {fileID: 21300000, guid: c6c615ef5cae43b429c7d183141fa22d, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Kangaroo
+  m_Controller: {fileID: 9100000, guid: 2776a4b2e51b6d944b56abd01f8e0e83, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a2f2a558b56e6af4eb595dae5be9cf38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7eea9472a2fe5ae43b83091b6f36f8f4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e42a9867485394147820bb90d1a03116, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1c6e4d78ae3ac6145b47c43ca05928f1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41a458822938d28478649d4104fca6b3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e01c0702a953db74aab99ded348aa49f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e1c1085b96299bc40a66f1a325ba37a5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 31d16d532e07f1b4eaa2efb50d27f7e2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 275a95182af786c48b81afa33777cda7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 018bf8c53a9903a4e8f6e32c3e4d2c01, type: 2}

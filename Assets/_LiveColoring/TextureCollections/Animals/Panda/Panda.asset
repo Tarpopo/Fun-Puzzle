@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017467395cca40c59b22247fa5286f19, type: 3}
+  m_Name: Panda
+  m_EditorClassIdentifier: 
+  BackGroundOutlineSprite: {fileID: 21300000, guid: 25c189cc2bad9644eada819cbd879207,
+    type: 3}
+  VisualBackgroundColors:
+  - {r: 0.1137255, g: 0.6784314, b: 0.12941177, a: 0}
+  - {r: 0.882353, g: 0.62352943, b: 0.6, a: 0}
+  - {r: 0.10588236, g: 0.5372549, b: 0.7137255, a: 0}
+  BackgroundColors: 040000001700000019000000
+  BackGroundSprite:
+  - {fileID: 21300000, guid: 2ae693e491139914da92d7a579b2fb73, type: 3}
+  - {fileID: 21300000, guid: 952fe78a5be9ec045b4a057fc101f127, type: 3}
+  - {fileID: 21300000, guid: f091abe32d088bd41afc444836427772, type: 3}
+  Silhouette: {fileID: 21300000, guid: c44ba7c6474386848a345997b9ca92fb, type: 3}
+  OutlineSprite: {fileID: 21300000, guid: e361032603d6b3548a6e4306982f3adc, type: 3}
+  VisualColorsList:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0.10588236, g: 0.5372549, b: 0.7137255, a: 0}
+  - {r: 0.4431373, g: 0.73333335, b: 0.21568629, a: 0}
+  - {r: 0.69803923, g: 0.47058827, b: 0.2784314, a: 0}
+  - {r: 0.95294124, g: 0.49411768, b: 0.4431373, a: 0}
+  - {r: 0.7568628, g: 0.7568628, b: 0.7568628, a: 0}
+  - {r: 1, g: 1, b: 1, a: 0}
+  ColorsList: 0900000019000000040000000a000000170000001800000008000000
+  SpriteList:
+  - {fileID: 21300000, guid: b69ef240ed979854f8c430560755b121, type: 3}
+  - {fileID: 21300000, guid: 5acdab4920d52e442a7da02c799e69af, type: 3}
+  - {fileID: 21300000, guid: 98ab32329c32de8449c31894025c436e, type: 3}
+  - {fileID: 21300000, guid: 2fe771d94abf21247a23a20c1bc54d0b, type: 3}
+  - {fileID: 21300000, guid: 30d6da3e63df08446910647825e94f46, type: 3}
+  - {fileID: 21300000, guid: aae54b1c38f8b6f4c88f4a2238cf5462, type: 3}
+  - {fileID: 21300000, guid: b154374906d9c9f4cba64a1efb0a2b3e, type: 3}

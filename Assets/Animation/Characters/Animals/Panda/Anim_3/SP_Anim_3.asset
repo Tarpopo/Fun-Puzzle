@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72cb5c0595d7a3d47a7ca025018abd0c, type: 3}
+  m_Name: SP_Anim_3
+  m_EditorClassIdentifier: 
+  animationPortrait: {fileID: 21300000, guid: 971624ddad175de4fbe12a5eede9abea, type: 3}
+  animation: {fileID: 7400000, guid: 8352c1ce0cdcc6440909caed0d87b625, type: 2}
+  prefab: {fileID: 2607003701282483619, guid: 8dbcfbf1c816d78419c226226a5d97f2, type: 3}
+  spawnDelay: 0.5
+  deleteDelay: 6
+  posOffset: {x: 0, y: -5}
